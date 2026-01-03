@@ -1,4 +1,5 @@
-```
+
+```text
 ╭─ Τ∃ ─╮
 │ TabErrans │
 ╰──────────╯
@@ -6,33 +7,41 @@
 
 <div align="center">
 
-## 🚧 EN OBRAS / WORK IN PROGRESS 🚧
+## 🚧 WORK IN PROGRESS 🚧
 
 </div>
 
+## Crear conocimiento sin pedir permiso
 
+**TabErrans** is a collection of open repositories dedicated to the creation of **digital research infrastructure**.
+It is just one drop in an infinite ocean of repositories, but also one more page in the Library of Alexandria.
 
-<h1/>Crear conocimiento sin pedir permiso</h1>
+At present, TabErrans can be understood as a shared workspace for developing **scientific software**, experimental tools, and supporting infrastructure, as well as for facilitating the use and integration of third-party tools. All repositories are released under **GPL-3**, ensuring openness, transparency, and the freedom to study, modify, and reuse the work.
 
-TabErrans es una serie de repositorios dedicados a la creación de infraestructura digital.
-No es más que una gota en un infinito de repositorios, pero también una página más
-en la Biblioteca de Alejandría.
+This is not a product, a startup, or a finished framework.
+It is a **table** where people sit, think, build, and learn together.
 
-Por el momento, puede definirse como un conjunto de repositorios orientados
-al desarrollo de software y a facilitar el uso de herramientas de terceros,
-todo ello bajo licencia GPL-3.
+## What lives here?
 
-¿Quieres mesa?
+* Research-oriented software and prototypes
+* Data processing and analysis infrastructure
+* Reproducible workflows and technical experiments
+* Glue code between existing open tools
+* Ideas in motion, not polished products
 
-"Forkea" todo lo que necsites o gustes, no hay problema con GPL-3. 
+Some repositories may be stable; others are explicitly exploratory.
 
+## Want a seat at the table?
 
-¿Crees que podemos mejorar o corregir algo?
+Fork whatever you need or find useful — GPL-3 allows it.
+Reuse, adapt, break, rebuild.
 
-Por supuesto, estamos encantados de recibir feedback. Al fin y al cabo, lo importante es hacer con (con)ciencia y seguir aprendiendo.
+## Feedback and collaboration
 
-¿Te interesa?
+Suggestions, corrections, and discussion are always welcome.
+The goal is not perfection, but **doing things with “(con)ciencia”** — with awareness, care, and scientific intent — and continuing to learn.
 
-Por el momento puedes contactarnos a:
+## Contact
+* **Brian Herreño Jiménez** — [brian.herreno@gmail.com](mailto:brian.herreno@gmail.com)
+* **Pedro José Martínez Sánchez** — [peskadelias@gmail.com](mailto:peskadelias@gmail.com)
 
-Brian Herreño Jiménez: brian.herreno@gmail.com
