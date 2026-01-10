@@ -43,6 +43,13 @@ Suggestions, corrections, and discussion are always welcome.
 The goal is not perfection, but **doing things with “(con)ciencia”** — with awareness, care, and scientific intent — and continuing to learn.
 
 ## Contact
-* **Brian Herreño Jiménez** — [brian.herreno@gmail.com](mailto:brian.herreno@gmail.com)
-* **Pedro José Martínez Sánchez** — [peskadelias@gmail.com](mailto:peskadelias@gmail.com)
+
+* **Juan Antonio Fernández Ortega** — Artist relations & audiovisual agreements
+  [jaforodrigoo@gmail.com](mailto:jaforodrigoo@gmail.com)
+
+* **Brian Herreño Jiménez** — Research, data & software infrastructure
+  [brian.herreno@gmail.com](mailto:brian.herreno@gmail.com)
+
+* **Pedro José Martínez Sánchez** — Creative & technical collaboration
+  [peskadelias@gmail.com](mailto:peskadelias@gmail.com)
 
