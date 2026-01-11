@@ -18,8 +18,6 @@
 
 </div>
 
-## Crear conocimiento sin pedir permiso
-
 **TabErrans** is a collection of open repositories dedicated to the creation of **digital research infrastructure**.
 It is just one drop in an infinite ocean of repositories, but also one more page in the Library of Alexandria.
 
