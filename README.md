@@ -1,11 +1,17 @@
 # TabErrans – What is TabErrans?
 
-```text
+<div align="center">
+
+<pre>
 ╭─ Τ∃ ─╮
 │ TabErrans │
 ╰──────────╯
-```
+</pre>
 
+<b>Crear conocimiento sin pedir permiso</b><br/>
+<i>(Creating knowledge without asking for permission)</i>
+
+</div>
 <div align="center">
 
 ## 🚧 WORK IN PROGRESS 🚧
@@ -52,4 +58,7 @@ The goal is not perfection, but **doing things with “(con)ciencia”** — wit
 
 * **Pedro José Martínez Sánchez** — Creative & technical collaboration
   [peskadelias@gmail.com](mailto:peskadelias@gmail.com)
+
+* **Jorge García de la Plaza García** — Applied psychology software
+  [jorge.garciadelaplaza@estudiante.uam.es](mailto:jorge.garciadelaplaza@estudiante.uam.es)
 
