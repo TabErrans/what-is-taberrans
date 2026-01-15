@@ -44,7 +44,7 @@ Reuse, adapt, break, rebuild.
 ## Feedback and collaboration
 
 Suggestions, corrections, and discussion are always welcome.
-The goal is not perfection, but **doing things with “(con)ciencia”** — with awareness, care, and scientific intent — and continuing to learn.
+The goal is not perfection, but **doing things with “(con)ciencia”** — with awareness, care, and scientific intent — and continuous  learning.
 
 ## Contact
 
