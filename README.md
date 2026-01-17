@@ -3,13 +3,26 @@
 <div align="center">
 
 <pre>
-╭─ Τ∃ ─╮
-│ TabErrans │
-╰──────────╯
+
+  
+    🏴‍☠️
+    |
+      |  |   
+    )_)   )_)
+    )_)  )_)  )_)
+    )___))___))___)\
+    )____)____)_____)\\
+     _____|____|____|____\\\__
+    ~~~ ~~ ~~~~~~~~ \     Τ∃  TabErrans     / ~~~~~~~ ~~ ~~~
+     ~~~ ~~~     ~~~ \_____________________/  ~~    ~~~ ~~~
+             ~~~ ~~~~~~~ ~~~~~ ~~~ ~~~~~~~ ~~
+
+       
+
 </pre>
 
-<b>Crear conocimiento sin pedir permiso</b><br/>
-<i>(Creating knowledge without asking for permission)</i>
+<b>Crear conocimiento sin permiso</b><br/>
+<i>( Creating knowledge without permission)</i>
 
 </div>
 <div align="center">
